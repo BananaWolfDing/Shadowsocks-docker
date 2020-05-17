@@ -2,7 +2,7 @@
 
 [Shadowsocks](https://shadowsocks.org/en/index.html) is an open-source and cross-platform encryption protocol project based on Socks5, which seems to be widely used against GFW.
 
-The Dockerfile is created according to the official documentation from [Shadowsocks Python](https://github.com/shadowsocks/shadowsocks/tree/master), and will help you build a image of server side Shadowsocks.
+The Dockerfile is created according to the official documentation from [Shadowsocks Python](https://github.com/shadowsocks/shadowsocks/tree/master), and will help you build an image of server side Shadowsocks.
 
 ## Install
 Clone the Dockerfile and build the docker image.
